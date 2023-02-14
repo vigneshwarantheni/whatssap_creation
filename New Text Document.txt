@@ -1,0 +1,9 @@
+whatsapp creation
+
+1.chat page code
+
+2.profile pic code
+
+3.lastseen code
+
+4.send photos,documents,videos code
