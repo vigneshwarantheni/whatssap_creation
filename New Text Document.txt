@@ -7,3 +7,7 @@ whatsapp creation
 3.lastseen code
 
 4.send photos,documents,videos code
+
+5.upload status code
+
+6.status privcy code
